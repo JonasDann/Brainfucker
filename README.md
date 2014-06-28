@@ -4,10 +4,10 @@ brainfuck
 Brainfuck interpreter implemented in C
 
 Linux:
-To compile under linux you have to link it with the ncurses libary (gcc main.c -lncurses) that has to be installed on the computer.
+To compile under linux you have to link it with the ncurses libary (gcc main_linux.c -lncurses) that has to be installed on the computer.
 
 Windows:
-Not working yet.
+To compile under windows just compile the main_windows.c. The windows version uses the standard conio.h header.
 
 =========
 
@@ -19,4 +19,3 @@ Planned features:
 
  - Ook interpreter
  - Ook to brainfuck compiler and other way around
- - Windows version
