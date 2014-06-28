@@ -13,3 +13,4 @@ Planned features:
 
  - Ook interpreter
  - Ook to brainfuck compiler and other way around
+ - Windows version
