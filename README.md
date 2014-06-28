@@ -1,7 +1,7 @@
 brainfuck
 =========
 
-Brainfuck interpreter in C
+Brainfuck interpreter implemented in C
 
 Linux:
 To compile under linux you have to link it with the ncurses libary (gcc main.c -lncurses) that has to be installed on the computer.
