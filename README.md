@@ -29,11 +29,11 @@ Code:
 Compilation
 -----------
 
-Linux:
+**Linux:**
 
 To compile under linux you have to link it with the ncurses libary (gcc main_linux.c -lncurses) that has to be installed on the computer.
 
-Windows:
+**Windows:**
 
 To compile under windows just compile the main_windows.c. The windows version uses the standard conio.h header.
 
