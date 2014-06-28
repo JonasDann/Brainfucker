@@ -16,7 +16,7 @@ Brainfuck is an esoteric programming language noted for its extreme minimalism. 
 Code:
 
 | token | meaning |
-| ----- | ------- |
+|:-----:| ------- |
 | > | increment the data pointer (to point to the next cell to the right). |
 | < | decrement the data pointer (to point to the next cell to the left). |
 | + | increment (increase by one) the byte at the data pointer. |
