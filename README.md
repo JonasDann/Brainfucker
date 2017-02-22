@@ -1,4 +1,4 @@
-brainfuck
+Brainfucker
 =========
 
 Brainfuck interpreter implemented in C
@@ -41,4 +41,4 @@ Planned features:
 -----------------
 
  - Ook interpreter
- - Ook to brainfuck compiler and other way around
+ - Ook to brainfuck and other way around transpiler 
